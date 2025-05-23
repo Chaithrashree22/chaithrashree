@@ -1,0 +1,48 @@
+
+    body {
+      background-color: #f0f4f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .card {
+      background-color: #a7f30e;
+      color: #333;
+      border: 1px solid #f90b0b;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 1.5rem;
+      border-radius: 12px;
+      width: 350px;
+      text-align: center;
+    }
+
+    .name {
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #2c3e50;
+    }
+
+    .title {
+      font-size: 1.2rem;
+      color: #555;
+      margin: 0.5rem 0;
+    }
+
+    .company {
+      font-size: 1.1rem;
+      color: #2980b9;
+      margin-bottom: 1rem;
+    }
+
+    .contact {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .contact span {
+      display
+:block
+    }
